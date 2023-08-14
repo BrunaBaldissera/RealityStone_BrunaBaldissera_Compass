@@ -1,4 +1,4 @@
-## GIT e GitHub
+## GIT e GitHub - Parte 1
 
 Aprendendo a usar GIT e GitHub na prática.
 
@@ -14,7 +14,7 @@ Aprendendo a usar GIT e GitHub na prática.
 
 - Adiciona uma alteração no diretório ativo:
 
-    ```git add <arquivo>```
+    ```git add "arquivo"```
 
 - Confirma as mudanças efetuadas:
   
@@ -32,6 +32,10 @@ Aprendendo a usar GIT e GitHub na prática.
 
     ```git checkout -b "nome da branch"```
 
+- Exclui um ramo do diretório de trabalho local:
+
+    ```git branch -d <branch>```
+
 - Alterna entre branches:
 
     ```git checkout <branch>```
@@ -39,3 +43,7 @@ Aprendendo a usar GIT e GitHub na prática.
 - Permite integrar uma branch à ramificação principal (estando na main):
 
     ```git merge <branch>```
+
+- Obtém as alterações remotas e mescla com as locais:
+
+    ```git pull```

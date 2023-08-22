@@ -97,7 +97,7 @@ class Calculadora
 
         if (delta < 0)
             return "Não deve calcular raiz quadrada de número negativo"
-        elsif (a < 1)
+        elsif (a == 0) ## Correção
             return "Não é uma equação de segundo grau"
         else
             x1 = (-b + Math.sqrt(delta)) / (2 * a)

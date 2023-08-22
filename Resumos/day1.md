@@ -40,7 +40,7 @@ Aprendendo a usar GIT e GitHub na prática.
 
     ```git checkout <branch>```
 
-- Permite integrar uma branch à ramificação principal (estando na main):
+- Permite integrar uma branch à ramificação especificada:
 
     ```git merge <branch>```
 

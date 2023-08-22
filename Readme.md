@@ -17,8 +17,4 @@ O repositório está organizado de forma a facilitar a navegação e o acesso ao
 
 - Ruby
 
-## ✒️ Autores
-
-- Bruna Baldissera
-
 Caso você queira contribuir com esse repositório, sinta-se à vontade para entrar em contato comigo. Contribuições relacionadas a correções, adição de informações, novos projetos e recursos são sempre bem-vindas!
